@@ -1,0 +1,25 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;1,300;1,400;1,700&display=swap');
+
+body{
+    background-color: aliceblue;
+    box-sizing: border-box;
+}
+.navdiv{
+    text-align: center;
+    margin: 20px 5px;
+    background-color:oldlace ;
+    padding: 1rem;
+    font-size: 2rem;
+  
+}
+
+.navdiv i{
+    color: goldenrod;
+}
+.navdiv h1{
+    color: red;
+}
+
+
+
